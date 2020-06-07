@@ -8,8 +8,10 @@ The intial 3D model is creating using Autodesk Fusion.
 
 Below is a video of the initial test launch
 youtu.be/Fe6yYv9TrHE
+https://twitter.com/ElectroInc/status/1267092385353420802
 
-Please note that this tested rocket model was up-scaled in the slicing software with a factor of 1.5 (I have done different scalings and that seemed the best)
+
+**Note**: Please note that this tested rocket model was up-scaled in the slicing software with a factor of 1.5 (I have done different scalings and that seemed the best)
 
 
 
@@ -31,3 +33,7 @@ Have a payload of:
 * Servo ("try to" control landing location)
 
 
+## Disclaimer
+* No guarntees given, anything you do is at your own risk
+* You are responsible for your own and surroundings safety
+* This is meant purely for fun no more no less
